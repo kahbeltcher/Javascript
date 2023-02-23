@@ -15,6 +15,3 @@ const terceiroPedido = () => {
   segundoPedido();
 }
 primeiroPedido();
-
-// sequencia - 1>2>3>2>1>2>3
-//
